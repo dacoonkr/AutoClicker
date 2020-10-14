@@ -7,3 +7,13 @@ C:\Users\이정형\source\repos\Auto Clicker\bin\Release\AutoClicker.exe
 C:\Users\이정형\source\repos\Auto Clicker\bin\Release\AutoClicker.pdb
 C:\Users\이정형\source\repos\Auto Clicker\obj\Release\AutoClicker.exe
 C:\Users\이정형\source\repos\Auto Clicker\obj\Release\AutoClicker.pdb
+C:\Users\이정형\source\repos\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\이정형\source\repos\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\이정형\source\repos\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\Auto clicker.csprojAssemblyReference.cache
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\Auto_Clicker.Properties.Resources.resources
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\Auto clicker.csproj.GenerateResource.cache
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\Auto clicker.csproj.CoreCompileInputs.cache
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\이정형\source\repos\AutoClicker\obj\Release\Auto_Clicker.Main.resources
