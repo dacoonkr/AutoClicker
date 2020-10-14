@@ -1,0 +1,10 @@
+C:\Users\이정형\source\repos\Nemo Clicker\bin\Debug\Nemo Clicker.exe.config
+C:\Users\이정형\source\repos\Nemo Clicker\bin\Debug\Nemo Clicker.exe
+C:\Users\이정형\source\repos\Nemo Clicker\bin\Debug\Nemo Clicker.pdb
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo Clicker.csprojAssemblyReference.cache
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo_Clicker.Properties.Resources.resources
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo Clicker.csproj.GenerateResource.cache
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo Clicker.csproj.CoreCompileInputs.cache
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo Clicker.exe
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo Clicker.pdb
+C:\Users\이정형\source\repos\Nemo Clicker\obj\Debug\Nemo_Clicker.Main.resources
